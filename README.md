@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my flutter app**
 
-- 🌱 I’m currently trying tolearn **Frameworks like Django and Dotnet**
+- 🌱 I’m currently trying to learn **Frameworks like Django and Dotnet**
 
 - 📫 How to reach me **jagrelool@gmail.com**
 
