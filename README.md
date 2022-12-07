@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently trying to learn **Frameworks like Django and Dotnet**
 
-- 📫 How to reach me **jagrelool@gmail.com**
+- 📫 How to reach me: **jagrelool@gmail.com**
 
-- ⚡ Fun fact **I broke about 200€ worth of Tech in my Computer Science class**
+- ⚡ Fun fact: **I broke about 200€ worth of Tech in my Computer Science class**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
