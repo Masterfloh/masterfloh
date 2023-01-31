@@ -1,6 +1,5 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/1024367814938738729/1049686131496730684/Blue_Yellow_Futuristic_Virtual_Technology_Blog_Banner.gif)](https://masterfloh.github.io)
-<h1 align="center">Hi 👋, I'm Masterfloh</h1>
-<span style="#800080">*M*</span>
+<h1 align="center", style="background-color:#800080;">Hi 👋, I'm Masterfloh</h1>
 <h3 align="center">A hard-working student living in Germany</h3>
 
 
