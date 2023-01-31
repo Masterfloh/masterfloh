@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterfloh&show_icons=true&locale=en&layout=compact" alt="masterfloh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterfloh&show_icons=true&theme=tokyonight&title_color=000000&text_color=000000&bg_color=c4c4c4&hide_border=true&locale=en" alt="masterfloh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterfloh&show_icons=true&theme=tokyonight&title_color=800080&text_color=800080&bg_color=c4c4c4&hide_border=true&locale=en" alt="masterfloh" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masterfloh&label=Profile%20views%40:&color=750085&style=flat" alt="masterfloh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masterfloh&label=Profile%20views%20:&color=750085&style=flat" alt="masterfloh" /> </p>
