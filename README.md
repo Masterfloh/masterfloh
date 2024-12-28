@@ -1,7 +1,9 @@
 <div style="display: flex; align-items: center;">
-    <img src="https://i.ibb.co/svD8jJp/d5704c0e-ad28-4d3f-93af-c1a9546cf90f.png" alt="MoonGuard Logo" width="30" style="margin-right: 8px;">
-    <span style="font-size: 2em; font-weight: bold;">MoonGuard - Advanced FiveM Anti-Cheat Solution</span>
+    <img src="https://i.ibb.co/svD8jJp/d5704c0e-ad28-4d3f-93af-c1a9546cf90f.png" alt="MoonGuard Logo" style="width: 30px; margin-right: 8px;">
+    <span style="font-size: 1.5em; font-weight: bold;">MoonGuard - Advanced FiveM Anti-Cheat Solution</span>
 </div>
+
+
 <br>
 
 MoonGuard is the industry-leading anti-cheat system for **FiveM**, trusted by a multitude of servers worldwide. With over **100 fully customizable functions**, a sleek dashboard, and unmatched detection technology, MoonGuard ensures your server stays cheat-free.
