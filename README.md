@@ -1,8 +1,5 @@
 
 # **MoonGuard - Advanced FiveM Anti-Cheat Solution**
-<div>
-    <img src="https://i.ibb.co/svD8jJp/d5704c0e-ad28-4d3f-93af-c1a9546cf90f.png" alt="MoonGuard Logo" style="width: 30px; margin-right: 8px;" alt="# **MoonGuard - Advanced FiveM Anti-Cheat Solution**">
-</div>
 
 
 
