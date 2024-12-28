@@ -1,48 +1,154 @@
-![MoonGuard Systems](https://media.discordapp.net/attachments/1294315562570223676/1296376246212497438/mg_systems_banner.png?ex=6718a776&is=671755f6&hm=4f6d5c168ad1a934efcc17c0e410c2b8437b47f641de403724752272b92e600f&=&format=webp&quality=lossless)
+<div style="display: flex; align-items: center;">
+    <img src="https://i.ibb.co/svD8jJp/d5704c0e-ad28-4d3f-93af-c1a9546cf90f.png" alt="MoonGuard Logo" width="30" style="margin-right: 8px;">
+    <span style="font-size: 2em; font-weight: bold;">MoonGuard - Advanced FiveM Anti-Cheat Solution</span>
+</div>
+<br>
 
-# 🌙 MoonGuard - Advanced FiveM Anti-Cheat Solution
-
-**MoonGuard** is the cutting-edge anti-cheat system designed specifically for **FiveM**. Our system offers unparalleled protection, keeping your servers secure and your players safe. From advanced detection algorithms to seamless integration, MoonGuard ensures your server is a cheat-free zone.
-
-## 🚀 Key Features
-
-### 🔒 **Anti-Executor**
-Our system detects and blocks all known cheat executors, preventing malicious code from being run on your server.
-
-### 👮 **AI Helper Assistant**
-MoonGuard’s AI-powered assistant helps detect suspicious patterns and player behavior, ensuring a proactive approach to cheat detection.
-
-### 🌐 **Modern Web Panel**
-Easily manage your server’s anti-cheat settings through a sleek, intuitive web panel. Monitor player activity, view detailed logs, and adjust configurations in real-time.
-
-### 🛡️ **Advanced Banning**
-- **Global Banning**: Keep repeat offenders out for good by banning them across all MoonGuard-protected servers.
-- **Local Banning**: Manage bans locally for more control over your server's community.
-
-### 📊 **Detailed Player Monitoring**
-MoonGuard tracks player activities, such as unusual resource usage, teleporting, and modification attempts, giving you full control over server integrity.
-
-### 💾 **Customizable Configurations**
-Fine-tune the anti-cheat settings to suit your server's needs. MoonGuard is fully customizable with various configuration options available through our web panel.
-
-### 🖼️ **Dynamic Panel UI Design**
-Experience a modern UI with dark mode options, ensuring that managing your anti-cheat has never been this smooth and visually pleasing.
-
-### 📦 **Discord Integration**
-Receive real-time alerts and reports on your Discord server. Stay informed and take immediate action when violations occur.
-
-## 💡 How It Works
-MoonGuard continuously scans for cheats and exploits using both **signature-based detection** and **behavioral analysis**. It uses cloud-based updates to stay ahead of the latest cheat software and employs **machine learning** for intelligent detection.
-
-## 🎮 Why Choose MoonGuard?
-- **High Performance**: Optimized for low impact on server performance.
-- **Constant Updates**: Our system is continuously updated to handle the latest threats.
-- **Easy Integration**: MoonGuard can be seamlessly installed on any FiveM server.
-
-## 📖 Documentation & Support
-For more information on setup and configurations, check out our [documentation](https://discord.gg/wgKJMdHvkE).  
-Need help? Join our **[Discord Community](https://discord.gg/wgKJMdHvkE)** for 24/7 support and updates!
+MoonGuard is the industry-leading anti-cheat system for **FiveM**, trusted by a multitude of servers worldwide. With over **100 fully customizable functions**, a sleek dashboard, and unmatched detection technology, MoonGuard ensures your server stays cheat-free.
 
 ---
 
-**MoonGuard** - Protect your server with the most advanced anti-cheat solution on the market today!
+## 📖 **Table of Contents**
+- [📖 **Table of Contents**](#-table-of-contents)
+- [🚀 **Key Features**](#-key-features)
+- [🌐 **Dashboard Preview**](#-dashboard-preview)
+  - [Dashboard Screenshots](#dashboard-screenshots)
+    - [**Login Screen**](#login-screen)
+    - [**General Page**](#general-page)
+    - [**Configuration Page**](#configuration-page)
+    - [**Shop Panel**](#shop-panel)
+- [💰 **Pricing Plans**](#-pricing-plans)
+- [🌟 **Customer Reviews**](#-customer-reviews)
+- [📖 **Documentation \& Support**](#-documentation--support)
+- [🤝 **Our Trusted Partners**](#-our-trusted-partners)
+- [🎥 **Videos \& Social Media**](#-videos--social-media)
+
+---
+
+## 🚀 **Key Features**
+
+MoonGuard offers a powerful suite of tools designed to detect and prevent cheating in real-time.
+
+- **🔒 Anti-Executor:** Detects and blocks known cheat executors.  
+- **🛀 AI Helper Assistant:** Uses machine learning to identify suspicious behavior.  
+- **📊 Player Monitoring:** Tracks unusual activities like teleportation and resource edits.  
+- **🛡️ Advanced Banning:**  
+  - **Global Bans:** Enforce bans across all MoonGuard-protected servers.  
+  - **Local Bans:** Tailored bans for your community.  
+- **💾 100+ Customizable Configurations:** Fine-tune the system to your server's needs.  
+- **🔄 Discord Integration:** Instant alerts and reports delivered directly to your server.  
+
+---
+
+## 🌐 **Dashboard Preview**
+
+MoonGuard’s **modern web panel** makes managing your server simple and efficient.  
+Features:  
+- Real-time activity monitoring.  
+- Full function customization.  
+- Intuitive design with dark mode support.  
+
+### Dashboard Screenshots
+
+#### **Login Screen**
+<div style="text-align: center;">
+    <img src="https://i.ibb.co/1fghd1c/wadawd.png" alt="Dashboard Login" style="width: 90%;">
+</div>
+
+#### **General Page**
+<div style="text-align: center;">
+    <img src="https://i.ibb.co/wh5pL34/image.png" alt="General Page" style="width: 90%;">
+</div>
+
+#### **Configuration Page**
+<div style="text-align: center;">
+    <img src="https://i.ibb.co/VTKngpP/awdawdad.png" alt="Configuration Page" style="width: 90%;">
+</div>
+
+#### **Shop Panel**
+<div style="text-align: center;">
+    <img src="https://i.ibb.co/wCBdp5z/waawdadw.png" alt="Shop Panel" style="width: 90%;">
+</div>
+
+---
+
+## 💰 **Pricing Plans**
+
+| **Duration**  | **Price**     |  
+|---------------|---------------|  
+| 1 Month       | **9.99€**     |  
+| 3 Months      | **24.99€**    |  
+| Lifetime      | **59.99€** _(Most Popular!)_ |
+
+<div style="text-align: left;">
+    <img src="https://i.ibb.co/Tb9DwLV/f453dde4-9b6c-4c43-9536-f753b92d6e10.png" alt="Shop Banner" style="width: 90%;">
+</div>
+
+---
+
+## 🌟 **Customer Reviews**
+
+See what our users have to say about MoonGuard:
+
+> 🛡️ _"We chose this anticheat, and I have to say: we’re really happy with it! The support is not only friendly but also incredibly fast. Whenever we had questions about setup, we got immediate help, and the solution was found in just a few minutes. The protection runs absolutely reliably, and cheaters finally don’t stand a chance on our server. <br> <br> You can tell that real pros are behind this, focusing on what server operators need. The regular updates and adjustments are also a huge plus – it really makes you feel taken care of. Anyone looking for a secure and stable anticheat for FiveM will find exactly what they need here!"_  
+> — **CapoToGo**
+
+> 🛡️ _"⭐ ⭐ ⭐ ⭐ ⭐  - Premium experience <br> <br>Purchase through the website was really easy, access was instantaneously given and the setup and configuration was done in an ease. <br> <br>I just tried to inject redengine, and it got detected right after i joined my server! 
+"_  
+> — **txtmarie**
+
+> 🛡️ _"I'm really excited about MoonGuard Anticheat, the efficiency via management via WebPanel with reloadconfig is super easy and possible for everyone.<br>If you have any problems, they will help you straight away and as a gesture of goodwill, my license was even extended for a few days due to initial difficulties.<br> <br>Thank you very much, dear MoonGuard Anticheat Team! Great, keep it up"_  
+> — **Philipp - GreenCity V2**
+
+> 🛡️ _"The Anticheat has lots of features that I can config in the Panel. If there is an error the Support is very fast and they find a solution instantly. <br> <br>Keep it up. <br> <br>MoonGuard on Top!"_  
+> — **Monty**
+
+---
+
+## 📖 **Documentation & Support**
+
+MoonGuard provides all the resources you need to get started:
+
+- **[Official Documentation](https://moonguard.systems/docs):** Step-by-step guides and resources.  
+- **[Join Our Discord Community](https://discord.com/invite/wzWk3gqq3K):** 24/7 support from our dedicated team.  
+
+---
+
+## 🤝 **Our Trusted Partners**
+
+MoonGuard collaborates with some of the best in the industry:
+
+<div style="text-align: left;">
+    <img src="https://i.ibb.co/Kz1vcjC/moonxsearched-1.png" alt="Tube Hosting Partner" style="width: 90%;">
+</div>
+
+<div style="text-align: left;">
+    <img src="https://i.ibb.co/RzbXNyC/moonxsearched.png" alt="Searched Partner" style="width: 90%;">
+</div>
+
+<div style="text-align: left;">
+    <img src="https://i.ibb.co/ch7Mygn/moonxsearched-3.png" alt="Alvaro Designs Partner" style="width: 90%;">
+</div>
+
+---
+
+## 🎥 **Videos & Social Media**
+
+Explore our latest videos and join our growing community:
+
+- **[Watch on YouTube](https://www.youtube.com/watch?v=QIuclhpzU3U&ab_channel=MoonGuardAnticheat):** Learn more about MoonGuard in action.  
+- **[Watch on TikTok](https://www.tiktok.com/@moonguardac/video/7452768302054640929):** Quick highlights and features.  
+
+Follow us for updates and exclusive content:
+
+- 🌐 **Website:** [https://moonguard.systems/](https://moonguard.systems/)  
+- 🎥 **YouTube Channel:** [https://www.youtube.com/@MoonGuardAnticheat](https://www.youtube.com/@MoonGuardAnticheat)  
+- 🎥 **TikTok Channel:** [https://www.tiktok.com/@moonguardac](https://www.tiktok.com/@moonguardac)  
+- 👥 **Discord:** [https://discord.com/invite/wzWk3gqq3K](https://discord.com/invite/wzWk3gqq3K)  
+
+---
+
+<div style="display: flex; align-items: center;">
+    <img src="https://i.ibb.co/svD8jJp/d5704c0e-ad28-4d3f-93af-c1a9546cf90f.png" alt="MoonGuard Logo" width="30" style="margin-right: 8px;">
+    <strong>MoonGuard &mdash; Security Made Simple, Effective, and Powerful!</strong>
+</div>
