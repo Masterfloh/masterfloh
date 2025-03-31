@@ -5,7 +5,7 @@
 ### Hi there, I'm Jakob! 👋
 
 ## 🚀 About Me
-I'm a developer, entrepreneur, and problem-solver, building software and business solutions through **Moon Holding Group** and its subsidiaries.
+I'm a developer, entrepreneur, and problem-solver, building software and business solutions through my company.
 
 ### 💻 Tech Stack
 
